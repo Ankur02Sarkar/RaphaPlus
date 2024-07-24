@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --subtitle-1-18: Poppins;
+  --font-inter: Inter;
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --subtitle-1-18-size: 1.125rem;
+  --font-size-3xs: 0.625rem;
+  --font-size-sm: 0.875rem;
+  --font-size-16xl: 2.188rem;
+  --font-size-27xl: 2.875rem;
+  --font-size-base: 1rem;
+
+  /* Colors */
+  --white: #fff;
+  --color-lightseagreen: #27b3a4;
+  --color-gray-100: #8e8e8e;
+  --color-gray-200: #1e1e1e;
+  --color-gray-300: #001e3a;
+  --black: #121212;
+  --grey: #696969;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-10xs: 3px;
+  --br-8xs: 5px;
+  --br-mini: 15px;
+  --br-3xs: 10px;
+}

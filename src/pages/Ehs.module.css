@@ -1,0 +1,760 @@
+.ehsChild,
+.ehsItem {
+  position: absolute;
+  width: 90rem;
+  display: none;
+}
+.ehsChild {
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: #e7eef6;
+  height: 191.813rem;
+}
+.ehsItem {
+  top: 5.563rem;
+  left: calc(50% - 723px);
+  height: 38.875rem;
+  object-fit: cover;
+}
+.ehsInner {
+  position: absolute;
+  top: 44.438rem;
+  left: calc(50% - 696px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  width: 87rem;
+  height: 34.875rem;
+}
+.accessIndiasDigital,
+.withYourAbha {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.accessIndiasDigital {
+  height: 18.1%;
+  width: 68.46%;
+  top: 47.33%;
+  left: 14%;
+  line-height: 1.5rem;
+  font-weight: 600;
+}
+.withYourAbha {
+  height: 14.16%;
+  width: 73.17%;
+  top: 65.43%;
+  left: 13.94%;
+  font-size: var(--font-size-base);
+  line-height: 1rem;
+  color: var(--grey);
+}
+.frameChild {
+  position: absolute;
+  top: -2.161rem;
+  left: 2.625rem;
+  width: 13rem;
+  height: 13rem;
+  object-fit: cover;
+}
+.createAbhaChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(180deg, #27b3a4, #001e3a);
+}
+.createAbha1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 47px);
+  letter-spacing: 0.03em;
+  line-height: 1rem;
+  font-weight: 600;
+}
+.createAbha {
+  position: absolute;
+  top: 14.868rem;
+  left: 2.625rem;
+  width: 8.375rem;
+  height: 1.875rem;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.accessIndiasDigitalHealthParent,
+.cardChild {
+  position: absolute;
+  top: 0.257rem;
+  left: 0;
+  width: 19.125rem;
+}
+.accessIndiasDigitalHealthParent {
+  box-shadow: 0 10px 40px rgba(18, 18, 18, 0.1);
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--white);
+  height: 19.338rem;
+  overflow: hidden;
+}
+.cardChild {
+  background-color: var(--color-gray-200);
+  height: 0.256rem;
+}
+.card {
+  width: 19.125rem;
+  position: relative;
+  height: 19.594rem;
+}
+.aSmartHealth {
+  position: absolute;
+  height: 18.1%;
+  width: 70%;
+  top: 50.03%;
+  left: 14.05%;
+  letter-spacing: 0.03em;
+  line-height: 1.75rem;
+  font-weight: 600;
+  display: inline-block;
+}
+.toOrganiseAll {
+  margin: 0;
+}
+.toOrganiseAllContainer {
+  position: absolute;
+  height: 14.22%;
+  width: 75.85%;
+  top: 62.02%;
+  left: 13.99%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  line-height: 1.188rem;
+  color: var(--grey);
+  display: inline-block;
+}
+.maskGroupIcon {
+  position: absolute;
+  height: 34.32%;
+  width: 27.03%;
+  top: 5.72%;
+  right: 62.31%;
+  bottom: 59.96%;
+  left: 10.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.uploadRecord {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 53px);
+  letter-spacing: 0.03em;
+  line-height: 1rem;
+  font-weight: 600;
+}
+.uploadRecordd {
+  position: absolute;
+  height: 9.7%;
+  width: 43.79%;
+  top: 76.89%;
+  right: 45.42%;
+  bottom: 13.42%;
+  left: 10.78%;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.automatedHealthProfile,
+.soYouMake {
+  position: absolute;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.automatedHealthProfile {
+  height: 16.48%;
+  width: 108.82%;
+  top: 49.91%;
+  left: 14.04%;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+.soYouMake {
+  height: 5.82%;
+  width: 75.59%;
+  top: 61.7%;
+  left: 14.05%;
+  font-size: var(--font-size-base);
+  line-height: 1.125rem;
+  color: var(--grey);
+}
+.maskGroupIcon1 {
+  position: absolute;
+  height: 30.16%;
+  width: 23.76%;
+  top: 7.03%;
+  right: 63.7%;
+  bottom: 62.81%;
+  left: 12.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.downloadApp1 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 52px);
+  letter-spacing: 0.03em;
+  line-height: 1rem;
+  font-weight: 600;
+}
+.downloadApp {
+  position: absolute;
+  height: 9.7%;
+  width: 43.79%;
+  top: 76.89%;
+  right: 41.83%;
+  bottom: 13.42%;
+  left: 14.38%;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.toMeasureYour,
+.vitalTracking {
+  position: absolute;
+  left: 13.98%;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.vitalTracking {
+  height: 16.48%;
+  width: 47.32%;
+  top: 49.91%;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+.toMeasureYour {
+  height: 14.16%;
+  width: 78.76%;
+  top: 61.7%;
+  font-size: var(--font-size-base);
+  line-height: 1.188rem;
+  color: var(--grey);
+}
+.maskGroupIcon2,
+.untitledDesign31 {
+  position: absolute;
+  height: 36.72%;
+  width: 28.33%;
+  top: 13.15%;
+  right: 63.49%;
+  bottom: 50.13%;
+  left: 8.18%;
+}
+.maskGroupIcon2 {
+  height: 26.28%;
+  width: 28.86%;
+  top: 10.8%;
+  right: 57.11%;
+  bottom: 62.92%;
+  left: 14.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.trackNow1 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 38px);
+  letter-spacing: 0.03em;
+  line-height: 1rem;
+  font-weight: 600;
+}
+.trackNow {
+  position: absolute;
+  height: 9.7%;
+  width: 43.79%;
+  top: 76.89%;
+  right: 42.16%;
+  bottom: 13.42%;
+  left: 14.05%;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.cardParent {
+  position: absolute;
+  top: 56.688rem;
+  left: calc(50% - 657px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.875rem;
+  color: var(--black);
+}
+.whatDoYou {
+  position: absolute;
+  top: 3.688rem;
+  left: calc(50% - 269.5px);
+  letter-spacing: 0.02em;
+  line-height: 3.188rem;
+  display: inline-block;
+  width: 33.688rem;
+}
+.aPeekInto {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 323.5px);
+  line-height: 122%;
+  font-weight: 600;
+}
+.groupChild {
+  position: absolute;
+  top: 2.375rem;
+  left: 34.25rem;
+  width: 6.188rem;
+  height: 0.25rem;
+}
+.aPeekIntoTheFutureOfHealParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 323.5px);
+  width: 40.438rem;
+  height: 2.688rem;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: rgba(0, 0, 17, 0.89);
+  font-family: var(--font-inter);
+}
+.whatDoYouGetWithAHealthParent {
+  position: absolute;
+  top: 47.625rem;
+  left: calc(50% - 323px);
+  width: 40.438rem;
+  height: 6.875rem;
+  text-align: center;
+  font-size: 1.625rem;
+  font-family: var(--font-manrope);
+}
+.ehsChild1 {
+  position: absolute;
+  top: 82rem;
+  left: 0;
+  background-color: var(--white);
+  width: 90rem;
+  height: 33rem;
+}
+.group39913Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 42.375rem;
+  height: 30.025rem;
+  object-fit: cover;
+}
+.participateinindiashealthcare {
+  position: absolute;
+  top: 2rem;
+  left: calc(50% + 149px);
+}
+.createabhastoreallyourmedical1 {
+  width: 100%;
+}
+.createabhastoreallyourmedical {
+  position: absolute;
+  top: 16.688rem;
+  left: 46.375rem;
+  font-size: 1.226rem;
+  color: var(--color-gray-300);
+  display: flex;
+  align-items: center;
+  width: 27.625rem;
+}
+.group39922,
+.participatecreateabha {
+  position: absolute;
+  width: 74rem;
+  height: 30.025rem;
+}
+.group39922 {
+  top: 0;
+  left: 0;
+}
+.participatecreateabha {
+  top: 83rem;
+  left: 7.813rem;
+  font-size: 3.688rem;
+  color: var(--color-lightseagreen);
+}
+.component23Child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 688.5px);
+  background-color: var(--white);
+  width: 89.875rem;
+  height: 37.5rem;
+}
+.frameItem {
+  position: absolute;
+  top: 5.938rem;
+  left: calc(50% - 489px);
+  border-radius: var(--br-mini);
+  width: 33.75rem;
+  height: 27.188rem;
+  object-fit: cover;
+}
+.component23Inner {
+  position: absolute;
+  top: -0.687rem;
+  left: 9.25rem;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.32));
+  width: 49.625rem;
+  height: 37.438rem;
+}
+.component23Item {
+  position: absolute;
+  top: 29.719rem;
+  left: 40.844rem;
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 31rem;
+  height: 0.063rem;
+}
+.nextButtonIcon {
+  position: absolute;
+  top: 26.875rem;
+  left: 69.125rem;
+  width: 0;
+  height: 5.563rem;
+}
+.anAutomatedHealth,
+.automatedHealthProfile1 {
+  position: absolute;
+  top: 5.563rem;
+  left: 40.875rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 44.313rem;
+}
+.automatedHealthProfile1 {
+  top: 14.188rem;
+  font-size: var(--subtitle-1-18-size);
+  font-weight: 500;
+  font-family: var(--subtitle-1-18);
+  color: var(--color-gray-300);
+  width: 35.938rem;
+}
+.nextButtonIcon1 {
+  position: absolute;
+  top: 27rem;
+  left: 71.25rem;
+  width: 5.563rem;
+  height: 5.563rem;
+}
+.component23 {
+  position: absolute;
+  top: 117.375rem;
+  left: calc(50% - 687px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  width: 86.063rem;
+  height: 35.813rem;
+  font-size: var(--font-size-27xl);
+  color: var(--color-lightseagreen);
+}
+.yourPersonalHealth {
+  position: absolute;
+  top: 115.875rem;
+  left: calc(50% - 340px);
+  font-size: var(--font-size-16xl);
+  line-height: 122%;
+  font-weight: 600;
+  display: inline-block;
+  width: 42.5rem;
+  height: 3.031rem;
+}
+.createAbha2,
+.vectorIcon {
+  position: absolute;
+  top: 118.313rem;
+  left: 53.688rem;
+  width: 7.188rem;
+  height: 0.313rem;
+}
+.createAbha2 {
+  top: 105.625rem;
+  left: 54.188rem;
+  width: 8.375rem;
+  height: 1.875rem;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.groupInner,
+.groupItem {
+  top: 10.875rem;
+  height: 2.188rem;
+}
+.groupItem {
+  position: absolute;
+  left: 0;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-10xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 7.563rem;
+}
+.groupInner {
+  left: 8.375rem;
+}
+.groupChild1,
+.groupChild2,
+.groupInner {
+  position: absolute;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-10xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 7.563rem;
+}
+.groupChild1 {
+  top: 10.875rem;
+  left: 16.75rem;
+  height: 2.188rem;
+}
+.groupChild2 {
+  top: 13.875rem;
+  left: 0;
+  height: 2.25rem;
+}
+.groupChild3 {
+  top: 13.875rem;
+  left: 8.375rem;
+}
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupChild6,
+.groupChild7 {
+  position: absolute;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-10xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  width: 7.563rem;
+  height: 2.25rem;
+}
+.groupChild4 {
+  top: 13.875rem;
+  left: 16.75rem;
+}
+.groupChild5,
+.groupChild6,
+.groupChild7 {
+  top: 16.938rem;
+}
+.groupChild5 {
+  left: 0;
+}
+.groupChild6,
+.groupChild7 {
+  left: 8.375rem;
+}
+.groupChild7 {
+  left: 16.75rem;
+}
+.paperlessManagement,
+.personalizedTips {
+  position: absolute;
+  top: 11.313rem;
+  left: 0.563rem;
+  line-height: 140%;
+  font-weight: 600;
+}
+.paperlessManagement {
+  top: 11.375rem;
+  left: 8.688rem;
+  font-size: 0.563rem;
+}
+.centralizedAccess,
+.seamlessSharing {
+  position: absolute;
+  top: 11.313rem;
+  left: 17.25rem;
+  line-height: 140%;
+  font-weight: 600;
+}
+.centralizedAccess {
+  top: 14.438rem;
+  left: 0.563rem;
+}
+.advancedAnalytics,
+.backupRecovery,
+.dataSecurity,
+.efficientRetrieval,
+.enhancedCare {
+  position: absolute;
+  top: 14.375rem;
+  left: 8.688rem;
+  line-height: 140%;
+  font-weight: 600;
+}
+.advancedAnalytics,
+.backupRecovery,
+.dataSecurity,
+.enhancedCare {
+  left: 17.25rem;
+}
+.backupRecovery,
+.dataSecurity,
+.enhancedCare {
+  top: 17.438rem;
+  left: 0.563rem;
+}
+.backupRecovery,
+.dataSecurity {
+  left: 8.688rem;
+}
+.backupRecovery {
+  left: 17.25rem;
+}
+.groupChild8 {
+  position: absolute;
+  top: 7.313rem;
+  left: 15.938rem;
+  width: 8.25rem;
+  height: 0.25rem;
+}
+.openYourHealthContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 122%;
+  display: inline-block;
+  width: 25.813rem;
+  height: 7.25rem;
+}
+.trustedByMore,
+.vectorParent {
+  position: absolute;
+  left: 0;
+  font-family: var(--font-inter);
+}
+.vectorParent {
+  top: 0;
+  width: 25.813rem;
+  height: 7.563rem;
+  font-size: 3.188rem;
+}
+.trustedByMore {
+  top: 7.875rem;
+  font-size: 1.5rem;
+  line-height: 160%;
+  font-weight: 500;
+  color: var(--color-lightseagreen);
+}
+.maskGroupIcon3,
+.maskGroupIcon4 {
+  position: absolute;
+  top: 20.313rem;
+  left: 2.125rem;
+  width: 9.063rem;
+  height: 3.231rem;
+  object-fit: cover;
+}
+.maskGroupIcon4 {
+  top: 20.563rem;
+  left: 12.591rem;
+  width: 8.488rem;
+  height: 3.181rem;
+  object-fit: contain;
+}
+.rectangleParent {
+  position: absolute;
+  top: 4.75rem;
+  left: 0;
+  width: 25.813rem;
+  height: 23.744rem;
+}
+.aboutSliderChild,
+.aboutSliderInner,
+.aboutSliderItem {
+  position: absolute;
+  border-radius: var(--br-5xs);
+  width: 54.188rem;
+  height: 37.831rem;
+  object-fit: cover;
+}
+.aboutSliderChild {
+  top: -3.312rem;
+  left: -14.187rem;
+}
+.aboutSliderInner,
+.aboutSliderItem {
+  top: 0;
+  left: 54.188rem;
+}
+.aboutSliderInner {
+  left: 108.375rem;
+}
+.aboutSlider {
+  position: absolute;
+  top: 0;
+  left: 36rem;
+  width: 37.5rem;
+  height: 31.25rem;
+  overflow: hidden;
+}
+.company,
+.groupParent {
+  position: absolute;
+  font-family: var(--subtitle-1-18);
+}
+.groupParent {
+  top: 11rem;
+  left: 8.25rem;
+  width: 73.5rem;
+  height: 31.25rem;
+  font-size: var(--font-size-3xs);
+}
+.company {
+  top: 169.563rem;
+  left: 36.125rem;
+  line-height: 1.625rem;
+  font-weight: 600;
+  color: var(--white);
+}
+.dotImage {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 90rem;
+  height: 50.625rem;
+}
+.ehs {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  height: 159.563rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--subtitle-1-18-size);
+  color: var(--color-gray-300);
+  font-family: var(--font-inter);
+}
+
+
+/* Add these lines to your CSS file */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.sliderimg{
+  width: auto;
+  height: 21rem;
+}
