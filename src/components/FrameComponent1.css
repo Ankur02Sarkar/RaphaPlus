@@ -1,0 +1,367 @@
+.digital-clinic1 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: 0.1px;
+  line-height: 5.375rem;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.frame-child {
+  position: absolute;
+  top: 4.738rem;
+  left: 16.125rem;
+  width: 7.938rem;
+  height: 0.375rem;
+  z-index: 3;
+}
+.digital-clinic-parent {
+  width: 24.75rem;
+  height: 5.375rem;
+  position: relative;
+  max-width: 100%;
+}
+.streamline-corporate-wellness,
+.transforming-workplace-health {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-15xl);
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 2;
+}
+.streamline-corporate-wellness {
+  font-size: var(--font-size-base);
+  line-height: 1.313rem;
+  font-weight: 500;
+  text-align: left;
+}
+.frame-parent,
+.hero-slogan {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  gap: var(--gap-7xs-9);
+}
+.hero-slogan {
+  padding: var(--padding-24xl) 0 0;
+  box-sizing: border-box;
+  min-width: 32.563rem;
+}
+.form-container-child {
+  width: 29.5rem;
+  height: 21.813rem;
+  position: relative;
+  border-radius: var(--br-sm);
+  background-color: var(--color-aliceblue);
+  display: none;
+  max-width: 100%;
+}
+.email-input {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-7xs-5);
+  min-width: 8.75rem;
+}
+.form-control2 {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.2px;
+  line-height: 1.5rem;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--text-color);
+  text-align: left;
+  display: inline-block;
+  min-width: 6.125rem;
+  z-index: 3;
+}
+.form-control-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+}
+.email1 {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.2px;
+  line-height: 1.75rem;
+  font-family: var(--font-montserrat);
+  color: var(--second-text-color);
+  text-align: left;
+}
+.inputform-control1 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-2xl);
+  white-space: nowrap;
+  z-index: 3;
+}
+.form-control3 {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.2px;
+  line-height: 1.5rem;
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+  color: var(--text-color);
+  text-align: left;
+  display: inline-block;
+  min-width: 7.375rem;
+  z-index: 3;
+}
+.form-control-container,
+.frame-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.form-control-container {
+  flex-direction: row;
+  padding: 0 var(--padding-xs);
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-10xs-5);
+}
+.email2 {
+  width: 6.5rem;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-2xs);
+  background-color: transparent;
+  height: 1.75rem;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 1.75rem;
+  color: var(--second-text-color);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+}
+.inputform-control2 {
+  align-self: stretch;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro-100);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-4xs) var(--padding-2xl);
+  z-index: 3;
+}
+.email-input1,
+.form,
+.inputform-control2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.email-input1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-8xs);
+  min-width: 8.75rem;
+}
+.form {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-xs);
+}
+.disclaimer-background {
+  width: 0.625rem;
+  height: 0.688rem;
+  position: relative;
+  background-color: var(--light-text-color);
+  border: 1px solid var(--color-lightseagreen);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.disclaimer-background-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.by-sending-this {
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-lightseagreen);
+}
+.privacy-policy,
+.span {
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+}
+.span {
+  font-weight: 500;
+  color: var(--color-lightseagreen);
+}
+.by-sending-this-container {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.2px;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  min-width: 17.5rem;
+  max-width: 100%;
+  z-index: 3;
+}
+.disclaimer,
+.disclaimer-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.disclaimer {
+  flex: 1;
+  gap: var(--gap-8xs);
+}
+.disclaimer-container {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.btn-text {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.2px;
+  line-height: 1.625rem;
+  font-family: var(--font-inter);
+  color: var(--light-text-color);
+  text-align: center;
+}
+.demo-button-container,
+.form-container,
+.request-a-demo {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.request-a-demo {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-xl) var(--padding-5xs);
+  background-color: transparent;
+  flex: 1;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(90.61deg, #1e908b, #1b1b1b);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 3;
+}
+.demo-button-container,
+.form-container {
+  justify-content: flex-start;
+}
+.demo-button-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) 0 var(--padding-11xs);
+}
+.form-container {
+  margin: 0;
+  width: 29.5rem;
+  border-radius: var(--br-sm);
+  background-color: var(--color-aliceblue);
+  flex-direction: column;
+  padding: var(--padding-8xl) var(--padding-4xs) var(--padding-4xs-2)
+    var(--padding-mini);
+  gap: var(--gap-6xs-4);
+  min-width: 29.5rem;
+  z-index: 2;
+}
+.hero-content,
+.hero-content-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.hero-content {
+  width: 70.438rem;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.hero-content-wrapper {
+  width: 84.688rem;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-41xl-8);
+  box-sizing: border-box;
+  text-align: justify;
+  font-size: var(--font-size-45xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1050px) {
+  .digital-clinic1 {
+    font-size: var(--font-size-32xl);
+    line-height: 4.313rem;
+  }
+  .transforming-workplace-health {
+    font-size: var(--font-size-8xl);
+  }
+  .form-container,
+  .hero-slogan {
+    flex: 1;
+  }
+  .hero-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .form-container,
+  .hero-slogan {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .digital-clinic1 {
+    font-size: var(--font-size-19xl);
+    line-height: 3.25rem;
+  }
+  .transforming-workplace-health {
+    font-size: var(--font-size-xl);
+  }
+  .disclaimer,
+  .form {
+    flex-wrap: wrap;
+  }
+  .hero-content-wrapper {
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}

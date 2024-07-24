@@ -1,0 +1,375 @@
+.benefits-content-child {
+  width: 84.063rem;
+  height: 41.375rem;
+  position: relative;
+  box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mid);
+  background-color: var(--light-text-color);
+  display: none;
+  max-width: 100%;
+}
+.enhance-workplace-health {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 3.625rem;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 3;
+}
+.improving-corporate-wellness {
+  position: relative;
+  line-height: 1.75rem;
+  z-index: 3;
+}
+.benefits-subheading {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  font-size: var(--font-size-9xl-8);
+  color: var(--wwwkivihealthcom-dove-gray);
+}
+.enhance-workplace-health-and-e-parent {
+  width: 61.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+  max-width: 100%;
+}
+.benefits-grid {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.feature-list-child {
+  height: 6.375rem;
+  width: 25.063rem;
+  position: relative;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  display: none;
+  max-width: 100%;
+}
+.employee-health-management {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list,
+.feature-list-item {
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-39xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.feature-list-item {
+  height: 6.375rem;
+  width: 25.063rem;
+  position: relative;
+  display: none;
+}
+.emergency-services-access {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list-inner,
+.feature-list1 {
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-50xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.feature-list-inner {
+  height: 6.375rem;
+  width: 25.063rem;
+  position: relative;
+  display: none;
+}
+.complaint-handling-system {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list2,
+.rectangle-div {
+  width: 25.063rem;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-41xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.rectangle-div {
+  height: 6.375rem;
+  position: relative;
+  display: none;
+}
+.integrated-clinic-network {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list-child1,
+.feature-list3 {
+  width: 25.063rem;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-39xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.feature-list-child1 {
+  height: 6.375rem;
+  position: relative;
+  display: none;
+}
+.employee-health-management1 {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list-child2,
+.feature-list4 {
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-41xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.feature-list-child2 {
+  height: 6.375rem;
+  width: 25.063rem;
+  position: relative;
+  display: none;
+}
+.efficiency-monitoring {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list-child3,
+.feature-list5 {
+  width: 25.063rem;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-41xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.feature-list-child3 {
+  height: 6.375rem;
+  position: relative;
+  display: none;
+}
+.facility-management-solutions {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list-child4,
+.feature-list6 {
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-39xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.feature-list-child4 {
+  height: 6.375rem;
+  width: 25.063rem;
+  position: relative;
+  display: none;
+}
+.in-house-clinic-provision {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list-child5,
+.feature-list7 {
+  width: 25.063rem;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  max-width: 100%;
+}
+.feature-list7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-50xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.feature-list-child5 {
+  height: 6.375rem;
+  position: relative;
+  display: none;
+}
+.employee-health-management2 {
+  position: relative;
+  line-height: 2.75rem;
+  z-index: 4;
+}
+.feature-list8,
+.features-grid {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.feature-list8 {
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-aliceblue);
+  padding: var(--padding-10xl) var(--padding-41xl);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+.features-grid {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 2.437rem 1.875rem;
+  min-height: 24rem;
+  font-size: var(--font-size-lg-8);
+  color: var(--color-gray-200);
+}
+.benefits-content,
+.benefits-content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.benefits-content {
+  flex: 1;
+  box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mid);
+  background-color: var(--light-text-color);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-22xl) var(--padding-20xl) var(--padding-60xl);
+  gap: var(--gap-14xl);
+  z-index: 2;
+}
+.benefits-content-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-25xl) var(--padding-10xs) var(--padding-26xl);
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--wwwkivihealthcom-mine-shaft);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1050px) {
+  .enhance-workplace-health {
+    font-size: var(--font-size-19xl);
+    line-height: 3.688rem;
+  }
+}
+@media screen and (max-width: 750px) {
+  .benefits-content {
+    gap: var(--gap-base);
+    padding-top: var(--padding-8xl);
+    padding-bottom: var(--padding-32xl);
+    box-sizing: border-box;
+  }
+  .benefits-content-wrapper {
+    padding-left: var(--padding-3xl);
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .enhance-workplace-health {
+    font-size: var(--font-size-10xl);
+    line-height: 2.75rem;
+  }
+  .improving-corporate-wellness {
+    font-size: var(--font-size-4xl);
+    line-height: 2.188rem;
+  }
+  .feature-list,
+  .feature-list1,
+  .feature-list2,
+  .feature-list3,
+  .feature-list4,
+  .feature-list5,
+  .feature-list6,
+  .feature-list7,
+  .feature-list8 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

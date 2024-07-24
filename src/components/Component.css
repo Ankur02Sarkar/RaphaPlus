@@ -1,0 +1,426 @@
+.workflow-background-icon {
+  width: 29.5rem;
+  position: relative;
+  height: 37.5rem;
+  object-fit: cover;
+  max-width: 100%;
+}
+.how-rapha-works-container1 {
+  width: 100%;
+}
+.how-rapha-works-container,
+.in-house-clinic {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.how-rapha-works-container {
+  width: 29.063rem;
+  line-height: 5.5rem;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.in-house-clinic {
+  text-decoration: underline;
+  line-height: 4.625rem;
+}
+.diagram-labels {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+  color: var(--color-lightseagreen);
+}
+.vitals-tracking {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+}
+.diagram-labels1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+}
+.facility-monitoring,
+.improved-efficiency {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+}
+.diagram-elements {
+  position: absolute;
+  top: 0;
+  left: 2.938rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xl);
+}
+.diagram-child {
+  position: absolute;
+  top: 4rem;
+  left: 0;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 56.063rem;
+  height: 0.063rem;
+  z-index: 1;
+}
+.diagram {
+  align-self: stretch;
+  height: 4.625rem;
+  position: relative;
+}
+.benefits-list-child,
+.benefits-list-child1,
+.benefits-list-child2,
+.benefits-list-child3,
+.benefits-list-child4,
+.benefits-list-inner,
+.benefits-list-item,
+.group-icon {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+}
+.benefits-list,
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefits-list {
+  gap: var(--gap-30xl);
+}
+.description {
+  padding: var(--padding-10xl) 0 0;
+}
+.convenient-access-to,
+.immediate-on-site-medical {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.immediate-on-site-medical {
+  margin-top: -0.563rem;
+}
+.benefit-descriptions {
+  align-self: stretch;
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.reduces-time-spent {
+  margin-top: -0.563rem;
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.benefit-descriptions1 {
+  align-self: stretch;
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.increases-employee-satisfactio {
+  margin-top: -0.563rem;
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.benefit-descriptions2 {
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.promotes-regular-health {
+  margin-top: -0.563rem;
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.benefit-descriptions3 {
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.early-detection-of {
+  margin-top: -0.563rem;
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.benefit-descriptions4 {
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.supports-wellness-programs {
+  margin-top: -0.563rem;
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.benefit-descriptions5 {
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.quick-access-to {
+  margin-top: -0.563rem;
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 4.625rem;
+  font-weight: 500;
+  font-family: inherit;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.benefit-descriptions6 {
+  height: 4.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.benefits-details,
+.description-container {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.benefits-details {
+  flex-direction: column;
+  max-width: calc(100% - 32px);
+}
+.description-container {
+  flex-direction: row;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.workflow-description {
+  width: 34.25rem;
+  flex-direction: row;
+  padding: 0 var(--padding-28xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.diagram-container,
+.workflow-description,
+.workflow-diagram {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.diagram-container {
+  width: 56rem;
+  flex-direction: column;
+  gap: var(--gap-base);
+  max-width: 210%;
+  flex-shrink: 0;
+}
+.workflow-diagram {
+  width: 31.375rem;
+  flex-direction: row;
+  padding: 0 var(--padding-18xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-2xl);
+}
+.workflow-content,
+.workflow-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.workflow-header {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.workflow-content {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-smi);
+  box-sizing: border-box;
+  min-width: 36.5rem;
+}
+.frame-item {
+  height: 1.375rem;
+  width: 7.938rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 4.813rem;
+  right: 17.688rem;
+  z-index: 1;
+}
+.component-114,
+.workflow-background-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.workflow-background-parent {
+  width: 88.188rem;
+  align-items: flex-end;
+  padding: 0 var(--padding-16xl) 0 0;
+  position: relative;
+  gap: var(--gap-7xs);
+  max-width: 103%;
+  flex-shrink: 0;
+}
+.component-114 {
+  align-self: stretch;
+  background-color: var(--light-text-color);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-30xl) 0 var(--padding-30xl) var(--padding-48xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .workflow-background-icon {
+    flex: 1;
+  }
+  .workflow-background-parent {
+    flex-wrap: wrap;
+  }
+  .component-114 {
+    padding-left: var(--padding-14xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .how-rapha-works-container {
+    font-size: var(--font-size-19xl);
+    line-height: 3.688rem;
+  }
+  .diagram-elements {
+    flex-wrap: wrap;
+  }
+  .diagram {
+    height: auto;
+    min-height: 74;
+  }
+  .component-114 {
+    padding-top: var(--padding-13xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .workflow-description {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .workflow-content {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-rapha-works-container {
+    font-size: var(--font-size-10xl);
+    line-height: 2.75rem;
+  }
+  .facility-monitoring,
+  .improved-efficiency,
+  .in-house-clinic,
+  .vitals-tracking {
+    font-size: var(--font-size-mid);
+    line-height: 3.688rem;
+  }
+  .convenient-access-to,
+  .early-detection-of,
+  .immediate-on-site-medical,
+  .increases-employee-satisfactio,
+  .promotes-regular-health,
+  .quick-access-to,
+  .reduces-time-spent,
+  .supports-wellness-programs {
+    font-size: var(--font-size-lgi);
+    line-height: 3.688rem;
+  }
+  .component-114 {
+    padding-top: var(--padding-2xl);
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
