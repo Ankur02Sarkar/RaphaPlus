@@ -12,14 +12,17 @@ const EHS = () => {
       <div className="mainDiv">
         <div className="leftChildDiv">
           <div className="maskGroup">
-            <h1 id="openYourHealthAccount">
-              Open your<br></br>
-              Health Account
-            </h1>
+            <div>
+              <h1 id="openYourHealthAccount">
+                Open your
+                <br />
+                Health Account
+              </h1>
 
-            <h3 id="trustedByMoreRhan3CrIndians">
-              Trusted by more than 3Cr Indians
-            </h3>
+              <h3 id="trustedByMoreRhan3CrIndians">
+                Trusted by more than 3Cr Indians
+              </h3>
+            </div>
             <div className="rectanglePropsMain">
               <div className="rectangleName">
                 <Rectangle name={"Personalized Tips"} />
@@ -38,11 +41,8 @@ const EHS = () => {
               </div>
             </div>
             <div className="playStoreandAppleStore">
-              <img src="playStore.png" aria-placeholder="playstore Link"></img>
-              <img
-                src="appleStore.png"
-                aria-placeholder="applestore Link"
-              ></img>
+              <img src="playStore.png" alt="playstore Link" />
+              <img src="appleStore.png" alt="applestore Link" />
             </div>
           </div>
         </div>
@@ -50,7 +50,6 @@ const EHS = () => {
           <SliderComponent />
         </div>
       </div>
-
       <Tracking />
       <SecondFrame />
       <Lastframe />

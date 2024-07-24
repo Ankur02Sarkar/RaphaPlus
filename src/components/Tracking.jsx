@@ -13,7 +13,7 @@ const Tracking = () => {
         </h3>
       </div>
 
-      <div className="frameContainer" >
+      <div className="frameContainer">
         <Frame
           image={<img src="heart.png" aria-placeholder="logo"></img>}
           text={"Access India’s digital health ecosystem"}
@@ -39,11 +39,10 @@ const Tracking = () => {
           image={<img src="vital.png" aria-placeholder="logo"></img>}
           text={"Vital Tracking"}
           para={"to measure your current health trends"}
-          button={<button className="btn">Track Now</button> }
+          button={<button className="btn">Track Now</button>}
         />
       </div>
     </div>
-    
   );
 };
 
